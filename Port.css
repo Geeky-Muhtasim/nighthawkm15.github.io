@@ -1,3 +1,36 @@
 body{
     font-family: 'Russo One', sans-serif;
 }
+.banner-container{
+    background-color: #CACACA;
+}
+.banner-column{
+    background-color: skyblue;
+}
+.navbar-container{
+    background-color: black;
+}
+.about-container{
+    background-color: purple;
+}
+.background-container{
+    background-color:lightgreen;
+}
+.bg-redtype{
+    background-color:crimson;
+}
+.redtype-color{
+    color:rgb(214, 129, 31);
+}
+.circle{
+    background-color:rgb(214, 129, 31);
+    width: 150px;
+    height: 150px;
+    border-radius:50%;
+}
+.skills-container{
+    background-color:rgb(29, 5, 71);
+}
+.progress{
+    margin: 10 px 10px;
+}
