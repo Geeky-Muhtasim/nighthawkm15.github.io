@@ -2,7 +2,7 @@ body{
     font-family: 'Russo One', sans-serif;
 }
 .banner-container{
-    background-color: #CACACA;
+    background-color: #9dff2c;
 }
 .banner-column{
     background-color: skyblue;
@@ -26,11 +26,8 @@ body{
     background-color:rgb(214, 129, 31);
     width: 150px;
     height: 150px;
-    border-radius:50%;
+    border-radius:18%%;
 }
 .skills-container{
     background-color:rgb(29, 5, 71);
-}
-.progress{
-    margin: 10 px 10px;
 }
