@@ -9,6 +9,9 @@ body{
 }
 .navbar-container{
     background-color: black;
+    position: sticky;
+    top:0;
+    z-index: 2;
 }
 .about-container{
     background-color: purple;
@@ -30,4 +33,27 @@ body{
 }
 .skills-container{
     background-color:rgb(29, 5, 71);
+}
+
+.profile_container{
+    background-color:lightpink;
+}
+.form_container{
+    background-color:darkblue;
+}
+.inner-form{
+    background-color:lightgrey;
+}
+.footer{
+    background-color:cyan;
+}
+.signs{
+    width:60px;
+    height:60px;
+    border-radius:50%;
+    display: inline-block;
+    background-color:#fff;
+    text-align: center;
+    font-size:40px;
+    color:cyan;
 }
